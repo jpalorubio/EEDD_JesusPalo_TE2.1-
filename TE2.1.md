@@ -5,7 +5,7 @@
  ![Inicializar repositorio](img/ej01.png)<br>
 2. Inicializa un repositorio local en la carpeta `UT2.1.a`. `adjunta la imagen`<br>
  ![Inicializar repositorio](img/ej02.1.png)<br>
-  ![Inicializar repositorio](img/ej02.2.png)<br>
+  ![Inicializar repositorio](img/Ej02.2.png)<br>
 
 3. Revisa qué rama se ha creado por defecto. ¿Desde dónde los visualizas? `adjunta la imagen`<br>
  ![Inicializar repositorio](img/ej03.png)<br>
