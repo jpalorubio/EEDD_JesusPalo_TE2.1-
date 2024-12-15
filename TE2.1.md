@@ -4,13 +4,16 @@
 1. Crea una carpeta llamada `UT2.1.a`.<br>
  ![Inicializar repositorio](img/ej01.png)<br>
 2. Inicializa un repositorio local en la carpeta `UT2.1.a`. `adjunta la imagen`<br>
-   ![Inicializar repositorio](img/01.1.png)  --> imagen de ejemplo, sustituye por el nombre de la imagen.
+ ![Inicializar repositorio](img/ej02.1.png)<br>
+  ![Inicializar repositorio](img/ej02.2.png)<br>
 
 3. Revisa qué rama se ha creado por defecto. ¿Desde dónde los visualizas? `adjunta la imagen`<br>
-   ![Rama por defecto](img/01.2.png) 
+ ![Inicializar repositorio](img/ej03.png)<br>
 
 4. Renombrar la rama por defecto a `main` en caso de que tenga otro nombre. `adjunta un gif`<br>
-   ![Renombrar rama](img/01.3.gif)
+    ```markdown
+Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new name.
+   ```
    
 5. Agrega un fichero `README.md`.
 
@@ -19,12 +22,12 @@
 
    Repositorio de prueba para la tarea 2.1.a
    ```
-
+ ![Inicializar repositorio](img/ej05.png)<br>
 6. Agrega el fichero `README.md` al stage area. `adjunta un gif`<br>
-   ![Agregar README](img/01.6.gif)
+    ![Inicializar repositorio](img/ej06.gif)<br>
 
 7. Realiza un commit con el mensaje "Add README". `adjunta un gif`<br>
-   ![Commit README](img/01.7.gif)
+   ![Inicializar repositorio](img/ej07.gif)<br>
 
 8. Agrega otro fichero `01.xml` con siguiente texto.
 
