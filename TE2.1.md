@@ -23,10 +23,10 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
    ```
  ![Inicializar repositorio](img/ej05.png)<br>
 6. Agrega el fichero `README.md` al stage area. `adjunta un gif`<br>
-    ![a](img/ej6.gif)<br>
+    ![Inicializar repositorio](img/ej6.gif)<br>
 
 7. Realiza un commit con el mensaje "Add README". `adjunta un gif`<br>
-   ![a](img/ej7.gif)<br>
+    ![Inicializar repositorio](img/ej7.gif)<br>
 
 8. Agrega otro fichero `01.xml` con siguiente texto.
 
@@ -44,18 +44,19 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
    </libreria>
    ```
 
+ ![Inicializar repositorio](img/ej08.png)<br>
 9.  Agrega el fichero `01.xml` al stage area y realiza el commit "Add file 01.xml" `adjunta un gif`<br>
-    ![Agregar 01.xml](img/01.9.gif)
+      ![Inicializar repositorio](img/ej9.gif)<br>
 
 10. Agrega una nueva rama llamada `fea/wac01` con la ayuda git-graph. `adjunta un gif`<br>
-    
+        ![Inicializar repositorio](img/ej10.gif)<br>
 11. En qué rama estas ahora mismo? ¿Cómo sabes en qué rama estás? `adjunta la imagen` y explica en breves palabras.
     ```text
     // Respuesta
-    
+    Podemos ver en que rama estamos en la parte inferior de la pantalla o desde git graph la que tiene el circulito. Para cambiarnos hacemos doble click en la rama que queramos entrar.
     ``` 
     ![Rama actual](img/01.11.png)
-
+ ![Inicializar repositorio](img/ej11.png)<br>
 12. Estando en la rama `fea/wac01` agrega un fichero `02.xml`, y agrega al área de stage y realiza commit "Add file 02". `adjunta un gif`<br>
 
     ```xml
@@ -71,9 +72,9 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
         </libro>
     </libreria>
     ```
-
+ ![Inicializar repositorio](img/ej12.gif)<br>
 13. Muestra el log (pantalla de git-graph donde se visualize el commit). `adjunta la imagen`<br>
-    ![Log rama fea/wac01](img/01.13.png)
+   ![Inicializar repositorio](img/ej13.png)<br>
 
 14. Posicionate de nuevo en la rama `main`, y crea otra rama `fea/wac02`, posicionandote directamente en ella. Agrega un fichero `03.xml`, agrega al área de stage y realiza commit "Add file 03".
 
@@ -90,24 +91,24 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
         </libro>
     </libreria>
     ```
-
+    ![Inicializar repositorio](img/ej14.gif)<br>
 15. Posicionate en la rama `main` y muestra los ficheros que hay en el directorio. (mostrar el arból de directorios de VS Code). `adjunta la imagen`<br>
-    ![Ficheros en main](img/01.15.png)
+      ![Inicializar repositorio](img/ej15.png)<br>
 
 16. Realizar un merge de la rama `fea/wac01` en la rama `main`. `adjunta un gif`<br>
-    ![Merge rama fea/wac01](img/01.16.gif)
+     ![Inicializar repositorio](img/ej16.gif)<br>
 
 17. Muestra el el log, y los ficheros que hay en el directorio. (mostrar el arból de directorios de VS Code) `adjunta la imagen`
-    ![Log y ficheros en main](img/01.17.gif)
+   ![Inicializar repositorio](img/ej17.gif)<br>
     
 18. Elimina la rama `fea/wac01` sin posibilidad de recuperación. `adjunta un gif`<br>
-    ![Eliminar rama fea/wac01](img/01.18.gif)
+    ![Inicializar repositorio](img/ej18.gif)<br>
 
 19. Realiza un merge de la rama `fea/wac02` en la rama `main`. `adjunta un gif`<br>
-    ![Merge rama fea/wac02](img/01.19.gif)
-    
+  ![Inicializar repositorio](img/ej19.gif)<br>
+  
 20. Muestra el log, y los ficheros que hay en el directorio. (Imagen) `adjunta la imagen`
-    ![Log y ficheros en main](img/01.20.png)
+   ![Inicializar repositorio](img/ej20.png)<br>
 
 21. Vuelve a la rama `fea/wac02` y modifica el fichero `03.xml` añadiendo un nuevo libro.
     
@@ -135,13 +136,13 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
 
     Agrega al área de stage y realiza commit "Update 03 file. Add book El Silmarillion".<br>
     `adjunta un gif, donde se visualize el contenido del fichero y el commit`<br>
-    ![Modificar 03.xml](img/01.21.gif)
+   ![Inicializar repositorio](img/ej21.gif)<br>
 
 22. Realiza un merge de la rama `fea/wac02` en la rama `main`. `adjunta un gif`<br>
-    ![Merge rama fea/wac02](img/01.22.gif)
+ ![Inicializar repositorio](img/ej22.gif)<br>
 
 23. Muestra el log del repositorio, y muestra el contenido del fichero `03.xml`. (Imagen visualizando comandos) `adjunta gif`
-    ![Log y ficheros en main](img/01.23.gif)
+   ![Inicializar repositorio](img/ej23.gif)<br>
 
 24. Ahora, en la rama `main` modifica el fichero `03.xml` incluyendo un nuevo libro.
 
@@ -177,7 +178,7 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
 
     Agrega al área de stage y realiza commit "Update 03 file. Add book El Hobbit".<br>
     `adjunta un gif, donde se visualize el contenido del fichero y el commit`<br>
-    ![Modificar 03.xml](img/01.24.gif)
+ ![Inicializar repositorio](img/ej24.gif)<br>
 
 25. Agrega un nuevo fichero `04.xml` sobre libros ciencia-ficcion, en la rama `main`.
 
@@ -196,18 +197,17 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
     ```
 
     Agrega al área de stage y realiza commit "Add 04 file. Add cienca-ficcion books".<br>
-
+ ![Inicializar repositorio](img/ej25.gif)<br>
 26. Muestra el registro de commits (log) y los ficheros que hay en el directorio. `adjunta una imagen`<br>
-    ![Log y ficheros en main](img/01.26.png)
-    
+   ![Inicializar repositorio](img/ej26.png)<br>
 27. Vuelve un commit atrás, y muestra el log y los ficheros que hay en el directorio. `adjunta un gif`<br>
-    ![Volver un commit](img/01.27.gif)
+    ![Inicializar repositorio](img/ej27.gif)<br>
     
 28. Vuelve al commit anterior, y muestra el log y los ficheros que hay en el directorio. `adjunta un gif`<br>
-    ![Volver un commit](img/01.28.gif)
+     ![Inicializar repositorio](img/ej28.gif)<br>
 
 29. Posicionate de nuevo en el último commit, y muestra el log y los ficheros que hay en el directorio. `adjunta un gif`
-    ![Volver un commit](img/01.28.gif)
+   ![Inicializar repositorio](img/ej29.gif)<br>
 
 ### 2. Crear repositorio remoto y subir a GITHUB
 
