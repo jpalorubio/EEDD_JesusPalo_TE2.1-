@@ -1,47 +1,4 @@
 ## TAREA EVALUABLE 2.1. TRABAJO CON GIT (Visual Studio Code)
-
-### Objetivos
-
-- Conocer cómo trabajar con GIT desde Visual Studio Code.
-- Conocer el entorno de VS Code para trabajar con git.
-- Conocer el lenguaje de marcado Markdown y su utilización en el desarrollo de documentación.
-
-### Entrega
-
-- El documento justificativo de la realización de la tarea se realizará en formato `Markdown`, el nombre del fichero será `readme.md` y estará dentro de la carpeta `UT2\TE2.1` dentro del repositorio oficial del alumno para la asignatura.
-
-- El fichero `readme.md` debe contener los siguientes apartados:
-  - Cada uno de los puntos de la tarea.
-  - Explicación de los pasos realizados y una imagen/gif justificativo del paso. (las imagenes se guardarán en la carpeta `UT2\TE2.1\img`).
-  - El nombre de la imagen debe ser el número del punto y subpunto seguido de la extensión correspondiente (`.png`, `.jpg`, `.gif`).
-    - Ejemplo: `01.1.png`, `02.5.gif`, `03.3.jpg`.
-  
-- Copia este documento como plantilla para la realización de este ejercicio en tu repositorio.
-
-### 📦 Recursos
-
-**📁 GIT**
-
-  - [Visualizar conceptos con D3](https://onlywei.github.io/explain-git-with-d3)
-  - [Taller de introducción a GIT](https://sharp-voice-0ff.notion.site/Taller-de-introducci-n-a-git-y-GitHub-5c0269251ed9475fab606cd57b9cae34?pvs=4)
-  - [Guía de supervivencia de GIT](https://sharp-voice-0ff.notion.site/GIT-Gu-a-de-supervivencia-b1ceff4f3b1040bdb27b1e39df9b4cfb?pvs=4)
-  - [SOS Git](https://firstaidgit.io/#/)
-  - [Escrbir en Markdown](https://docs.github.com/es/get-started/writing-on-github)
-  - [Curso de GIT y GITHUB (youtube)](https://youtu.be/3GymExBkKjE)
-  
-    > 💡 Para obtener la url de un fichero en GIThub y que esta URL pertenezca a un commit específico, desde el navegador, desde el teclado pulsar `y` y se copia la url con el hash del commit.
-
-**📹 GIF**
-
-  - [ScreenToGif](https://www.screentogif.com/) grabar la pantalla y convertirlo en gif.
-  
-
-**:heavy_plus_sign: Extensiones de VSCode**
-
-  - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-  - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
-
 ### 1. Crear repositorio local y subir a GITHUB
 
 1. Crea una carpeta llamada `UT2.1.a`.
