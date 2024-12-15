@@ -211,21 +211,21 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
 ### 2. Crear repositorio remoto y subir a GITHUB
 
 1. Crea un repositorio remoto en GITHUB llamado `EEDD_{NombreApellido}_TE2.1` público, vacio, sin nada.
-   
+   ![Inicializar repositorio](img/p2.01.png)<br>
 2. Agrega el repositorio remoto a tu repositorio local. Explica cómo lo haces, y `adjunta una imagen donde se visualizen las url's`<br>
-    ![Repositorio remoto](img/02.2.png)
+   ![Inicializar repositorio](img/p2.02.png)<br>
 
    ```text
-    // Comentario
+   Desde git graph nos vamos a Repository setting y le damos a Add Remote.
     
     ``` 
 
 3. Sube la rama `main` al repositorio remoto. `adjunta un gif`<br>
-    ![Subir rama main](img/02.3.gif)
+   ![Inicializar repositorio](img/p2.03.gif)<br>
    
 
 4. Posicionate en la rama `fea/wac02` y sube la rama `fea/wac02` al repositorio remoto. `adjunta un gif`<br>
-    ![Subir rama fea/wac02](img/02.4.gif)
+        ![Inicializar repositorio](img/p2.04.gif)<br>
 
 5. Ahora desde GITHUB (web) en la rama `fea\wac02`, modifica el fichero `03.xml` añadiendo un nuevo libro.
 
@@ -268,31 +268,31 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
 
    Realiza un commit con el mensaje "Update 03 file. Add book El hombre bicentenario".
    (Muestra pantallazo de GITHUB con el commit realizado) `adjunta la imagen`
+        ![Inicializar repositorio](img/p2.05.png)<br>
 
-6. Ahora obten los cambios sin acualizar el repositorio local (`git fetch origin`).<br>
+7. Ahora obten los cambios sin acualizar el repositorio local (`git fetch origin`).<br>
    Muestra el log del repositorio local `adjunta la imagen`
     
-7.  Ahora actualiza el repositorio local con los cambios del repositorio remoto (`git pull`) y muestra el log. `adjunta un gif`<br>
-    ![Pull](img/02.7.gif)
+8.  Ahora actualiza el repositorio local con los cambios del repositorio remoto (`git pull`) y muestra el log. `adjunta un gif`<br>
+     ![Inicializar repositorio](img/p2.07.gif)<br>
+9.  Haz un merge de la rama `fea/wac02` en la rama `main`. Muestra estado, log, y el contenido fichero `03.xml` (Incluye imagen) `adjunta un gif`<br>
+       ![Inicializar repositorio](img/p2.08.gif)<br>
 
-8.  Haz un merge de la rama `fea/wac02` en la rama `main`. Muestra estado, log, y el contenido fichero `03.xml` (Incluye imagen) `adjunta un gif`<br>
-    ![Merge](img/02.8.gif)
+10.  Sube la rama `main` al repositorio remoto. `adjunta una gif`<br>
+       ![Inicializar repositorio](img/p2.09.gif)<br>
+11. Elimina la rama local `fea/wac02` sin posibilidad de recuperación. `adjunta un gif`<br>
+      ![Inicializar repositorio](img/p2.10.gif)<br>
 
-9.  Sube la rama `main` al repositorio remoto. `adjunta una gif`<br>
-    ![Subir rama main](img/02.9.gif)
-
-10. Elimina la rama local `fea/wac02` sin posibilidad de recuperación. `adjunta un gif`<br>
-    ![Eliminar rama fea/wac02](img/02.10.gif)
-
-11. Elimina la rama remota `fea/wac02` sin posibilidad de recuperación 
+12. Elimina la rama remota `fea/wac02` sin posibilidad de recuperación 
     ```text
     // Respuesta
     
     ```
-12. Muestra desde GITHUB (navegador web) las ramas que tienes el en repositorio remoto. `adjunta un gif`<br>
+     ![Inicializar repositorio](img/p2.11.gif)<br>
+13. Muestra desde GITHUB (navegador web) las ramas que tienes el en repositorio remoto. `adjunta un gif`<br>
     ![Ramas en GITHUB](img/02.12.gif)
 
-13. Para finalizar, muestra el log del repositorio local (Incluye imagen) `adjunta la imagen`<br>
+14. Para finalizar, muestra el log del repositorio local (Incluye imagen) `adjunta la imagen`<br>
     ![Log](img/02.13.png)
 
 ### 3. Enlace repositorio remoto
