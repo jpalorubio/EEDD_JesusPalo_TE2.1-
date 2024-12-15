@@ -1,7 +1,8 @@
 ## TAREA EVALUABLE 2.1. TRABAJO CON GIT (Visual Studio Code)
 ### 1. Crear repositorio local y subir a GITHUB
 
-1. Crea una carpeta llamada `UT2.1.a`.
+1. Crea una carpeta llamada `UT2.1.a`.<br>
+(img/ej01.png)
 2. Inicializa un repositorio local en la carpeta `UT2.1.a`. `adjunta la imagen`<br>
    ![Inicializar repositorio](img/01.1.png)  --> imagen de ejemplo, sustituye por el nombre de la imagen.
 
