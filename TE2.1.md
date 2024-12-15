@@ -23,10 +23,10 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
    ```
  ![Inicializar repositorio](img/ej05.png)<br>
 6. Agrega el fichero `README.md` al stage area. `adjunta un gif`<br>
-    ![Inicializar repositorio](img/ej06.gif)<br>
+    ![a](img/ej06.gif)<br>
 
 7. Realiza un commit con el mensaje "Add README". `adjunta un gif`<br>
-   ![Inicializar repositorio](img/ej07.gif)<br>
+   ![a](img/ej07.gif)<br>
 
 8. Agrega otro fichero `01.xml` con siguiente texto.
 
