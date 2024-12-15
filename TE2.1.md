@@ -98,7 +98,7 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
      ![Inicializar repositorio](img/ej16.gif)<br>
 
 17. Muestra el el log, y los ficheros que hay en el directorio. (mostrar el arból de directorios de VS Code) `adjunta la imagen`
-   ![Inicializar repositorio](img/ej17.gif)<br>
+   ![Inicializar repositorio](img/ej17.png)<br>
     
 18. Elimina la rama `fea/wac01` sin posibilidad de recuperación. `adjunta un gif`<br>
     ![Inicializar repositorio](img/ej18.gif)<br>
