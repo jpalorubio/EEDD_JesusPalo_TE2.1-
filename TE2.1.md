@@ -10,7 +10,7 @@
 3. Revisa qué rama se ha creado por defecto. ¿Desde dónde los visualizas? `adjunta la imagen`<br>
  ![Inicializar repositorio](img/ej03.png)<br>
 
-4. Renombrar la rama por defecto a `main` en caso de que tenga otro nombre. `adjunta un gif`<br>
+4. Renombrar la rama por defecto a `main` en caso de que tenga otro nombre. `adjunta un gif`
     ```markdown
 Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new name.
    ```
