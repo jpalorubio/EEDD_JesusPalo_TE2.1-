@@ -55,7 +55,6 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
     // Respuesta
     Podemos ver en que rama estamos en la parte inferior de la pantalla o desde git graph la que tiene el circulito. Para cambiarnos hacemos doble click en la rama que queramos entrar.
     ``` 
-    ![Rama actual](img/01.11.png)
  ![Inicializar repositorio](img/ej11.png)<br>
 12. Estando en la rama `fea/wac01` agrega un fichero `02.xml`, y agrega al área de stage y realiza commit "Add file 02". `adjunta un gif`<br>
 
