@@ -290,7 +290,7 @@ Al estar en main, nos saltamos el paso. Se cambiaria usando git Branch -m new na
     ```
      ![Inicializar repositorio](img/p2.11.gif)<br>
 13. Muestra desde GITHUB (navegador web) las ramas que tienes el en repositorio remoto. `adjunta un gif`<br>
-    ![Inicializar repositorio](img/p2.12.gif)<br>
+    ![Inicializar repositorio](img/p2.12.png)<br>
 
 14. Para finalizar, muestra el log del repositorio local (Incluye imagen) `adjunta la imagen`<br>
     ![Inicializar repositorio](img/p2.13.png)<br>
