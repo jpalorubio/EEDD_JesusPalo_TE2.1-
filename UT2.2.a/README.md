@@ -131,17 +131,19 @@
 ![alt text](img/ej17.1.png)
 ![alt text](img/ej17.2.png)
 ![alt text](img/ej17.3.png)
+
 19. Elimina la rama `fea/wac01` sin posibilidad de recuperación. ¿Qué comando/s utilizas?
+    
     ```text
     git branch -D fea/wac01
     
     ``` 
-20. Realiza un merge de la rama `fea/wac02` en la rama `main`.
+21. Realiza un merge de la rama `fea/wac02` en la rama `main`.
     ```text
     git checkout main
     git merge fea/wac02
     ``` 
-21. Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen) `adjunta la imagen`
+22. Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen) `adjunta la imagen`
 
 ![alt text](img/ej18.1.png)
 
