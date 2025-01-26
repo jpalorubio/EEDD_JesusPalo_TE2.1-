@@ -21,7 +21,7 @@
    ```markdown
    # UT2.2.a
 
-   ![alt text](image.png)
+image.p
    ```
 
 6. Agrega el fichero `README.md` al stage area. ¿Qué comando/s utilizas?
@@ -253,13 +253,13 @@
     ``` 
 
 27. Muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-    ![alt text](img/ej27.png)
+    img/ej27.png
 28. Vuelve un commit atrás, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-    ![alt text](img/ej28.png)
+    img/ej28.png
 29. Vuelve al commit anterior, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-    ![alt text](img/ej29.png)
+   img/ej29.png
 30. Posicionate de nuevo en el último commit, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-![alt text](img/ej30.png)
+img/ej30.png
 ### 2. Crear repositorio remoto y subir a GITHUB
 
 1. Crea un repositorio remoto en GITHUB llamado `EEDD_{NombreApellido}_TE2.2` público, vacio, sin nada.
