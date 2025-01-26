@@ -127,22 +127,24 @@
     
     ``` 
 17. Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen/gif visualizando los comandos) `adjunta la imagen`
+    
 ![alt text](img/ej17.1.png)
 ![alt text](img/ej17.2.png)
 ![alt text](img/ej17.3.png)
-18. Elimina la rama `fea/wac01` sin posibilidad de recuperación. ¿Qué comando/s utilizas?
+19. Elimina la rama `fea/wac01` sin posibilidad de recuperación. ¿Qué comando/s utilizas?
     ```text
     git branch -D fea/wac01
     
     ``` 
-19. Realiza un merge de la rama `fea/wac02` en la rama `main`.
+20. Realiza un merge de la rama `fea/wac02` en la rama `main`.
     ```text
     git checkout main
     git merge fea/wac02
     ``` 
-20. Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen) `adjunta la imagen`
+21. Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen) `adjunta la imagen`
 
 ![alt text](img/ej18.1.png)
+
 21. Vuelve a la rama `fea/wac02` y modifica el fichero `03.xml` añadiendo un nuevo libro.
 
     ```xml
@@ -173,13 +175,16 @@
     Agrega al área de stage y realiza commit "Update 03 file. Add book El Silmarillion".
 
 22. Posicionate en la rama `main`, muestra el estado y muestra el contenido del fichero `cat 03.xml`. (Imagen visualizando comandos) `adjunta la imagen`
-img/ej22.png
+![alt text](img/ej22.png)
+
 23. Realiza un merge de la rama `fea/wac02` en la rama `main`. ¿Qué comando/s utilizas?
     ```text
     git checkout main
     git merge fea/wac02
     ``` 
 24. Muestra el estado del repositorio, y muestra el contenido del fichero `03.xml`. (Imagen visualizando comandos) `adjunta la imagen`
+![alt text](img/ej24.png)
+
 25. Ahora, en la rama `main` modifica el fichero `03.xml` incluyendo un nuevo libro.
 
     ```xml
@@ -215,7 +220,9 @@ img/ej22.png
     Agrega al área de stage y realiza commit "Update 03 file. Add book El Hobbit".
 
     ```text
-    // Respuesta
+     git add 03.xml
+    git commit -m "Update 03 file. Add book El Hobbit"
+    "He modificado el segundo libro aqui porque me he dado cuenta que el segundo libro agregue el mismo que el primero". // Respuesta
     
     ``` 
 
@@ -238,18 +245,19 @@ img/ej22.png
     Agrega al área de stage y realiza commit "Add 04 file. Add cienca-ficcion books".
 
     ```text
-    // Respuesta
+   git add 04.xml
+    git commit -m "Add 04 file. Add ciencia-ficcion books"
     
     ``` 
 
 27. Muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-    
+    ![alt text](img/ej27.png)
 28. Vuelve un commit atrás, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-    
+    ![alt text](img/ej28.png)
 29. Vuelve al commit anterior, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-    
+    ![alt text](img/ej29.png)
 30. Posicionate de nuevo en el último commit, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) `adjunta la imagen`
-
+![alt text](img/ej30.png)
 ### 2. Crear repositorio remoto y subir a GITHUB
 
 1. Crea un repositorio remoto en GITHUB llamado `EEDD_{NombreApellido}_TE2.2` público, vacio, sin nada.
